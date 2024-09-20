@@ -10,7 +10,7 @@
   <name>ICICIBankApplication</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
-
+  <!-- This Example of Maven Project -->
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.release>11</maven.compiler.release>
